@@ -13,10 +13,5 @@ while True:
 while True:
     a3 = input('По батькові:')
     if a3.isalpha():
-        break
-else:
-    print('Помилка')
-C:\Users\student\PycharmProjects\pythonProject\.idea\workspace.xml
-
 
 
