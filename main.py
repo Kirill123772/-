@@ -16,25 +16,8 @@ while True:
         break
 else:
     print('Помилка')
-print(f"{a2.capitalize()} {a1[0].capitalize()}.{a3[0].title()}.")
-
-
-
-a = input('Введіть строку:')
-b = a [  : : -1]
-print(b)
-
-
-
-a = input('Введіть рядок:')
-letter = 0
-chisla = 0
-for i in a:
-    if a == letter:
-     letter += 1
-
-
-    print(b)
+C:\Users\student\PycharmProjects\pythonProject\.idea\workspace.xml
+EThjs6u8,loC:\Users\student\PycharmProjects\pythonProject\.idea\workspace.xml
 
 
 
